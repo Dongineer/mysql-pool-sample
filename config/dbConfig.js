@@ -1,0 +1,36 @@
+module.exports = {
+  development: [
+    {
+      clusterType: '',
+      host: '',
+      port: '',
+      user: '',
+      password: '',
+      database: '',
+      connectionLimit: 23,
+      multipleStatements: true,
+    },
+    {
+      clusterType: '',
+      clusterId: '',
+      host: '',
+      port: '',
+      user: '',
+      password: '',
+      database: '',
+      connectionLimit: 23,
+      multipleStatements: true,
+    },
+    {
+      clusterType: '',
+      clusterId: '',
+      host: '',
+      port: '',
+      user: '',
+      password: '',
+      database: '',
+      connectionLimit: 23,
+      multipleStatements: true,
+    },
+  ],
+}
